@@ -4,7 +4,7 @@
 #include <cassert>
 using namespace std;
 
-template<class T> class vector_ycf
+template<class T> class vector_ycf  
 {
 public:
 	enum {SAPRE_CAPACIY=5};
